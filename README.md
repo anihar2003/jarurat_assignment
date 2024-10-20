@@ -1,4 +1,4 @@
-# Svelte Project Jarurat Assignment
+# Svelte Project Assignment
 
 ## Recommended IDE Setup
 
